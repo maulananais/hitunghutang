@@ -47,3 +47,6 @@ Untuk memulai, Anda perlu menginstal Python di sistem Anda. Ikuti langkah-langka
    py pinjaman.py --> Kalau non deposit0
    py deposito.py --> Kalau deposito
 
+## Lisensi
+
+Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
