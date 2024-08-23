@@ -30,6 +30,8 @@ Program ini ideal bagi siapa saja yang perlu menghitung jumlah yang harus dibaya
   
 - **Perhitungan Tabungan (Deposito)**:
   - Pilih antara bunga sederhana dan bunga majemuk.
+    - Bunga sederhana = Pokok x Tingkat x Waktu / 100
+    - Bunga majemuk = Pokok (1 + Tingkat / n)^n x Waktu - Pokok
   - Opsi jangka waktu dan tingkat bunga tabungan yang fleksibel.
 
 ## Memulai
